@@ -1,1 +1,1 @@
-This is sample created for git qualification , newly added
+This is sample created for git qualification
